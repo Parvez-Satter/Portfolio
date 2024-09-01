@@ -1,6 +1,6 @@
 # Portfolio
 
-# Image Grid
+# PCB projects 
 
 <table>
   <tr>
