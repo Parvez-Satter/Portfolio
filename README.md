@@ -1,6 +1,6 @@
 # Portfolio
 
-# PCB projects 
+<h4>PCB projects</h4>
 
 <table>
   <tr>
@@ -37,24 +37,6 @@
     <td>
       <img src="image8.jpg" alt="Image 8" style="width:100px;">
       <p>Description for Image 8</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="image9.jpg" alt="Image 9" style="width:100px;">
-      <p>Description for Image 9</p>
-    </td>
-    <td>
-      <img src="image10.jpg" alt="Image 10" style="width:100px;">
-      <p>Description for Image 10</p>
-    </td>
-    <td>
-      <img src="image11.jpg" alt="Image 11" style="width:100px;">
-      <p>Description for Image 11</p>
-    </td>
-    <td>
-      <img src="image12.jpg" alt="Image 12" style="width:100px;">
-      <p>Description for Image 12</p>
     </td>
   </tr>
 </table>
