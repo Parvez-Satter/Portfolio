@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <![3D view](https://github.com/user-attachments/assets/99af77b9-da4c-403c-95f7-92eeb2812c17) style="width:100px;">
+      <img src="![3D view](https://github.com/user-attachments/assets/99af77b9-da4c-403c-95f7-92eeb2812c17)" alt="Image 2" style="width:100px;">
       <p>Description for Image 1</p>
     </td>
     <td>
