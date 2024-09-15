@@ -15,3 +15,15 @@
   </tr>
 
 </table>
+
+<h3>Fan Regulator</h3>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/P.Fan%20regulator/3DL.png?raw=true" style="width:150px;">
+      <p> Input Voltage: 220-250V AC <br> Frequency: 50/60Hz </p>
+    </td>
+  </tr>
+
+</table>
