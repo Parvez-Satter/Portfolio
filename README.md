@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/4%20Chanel%20Relay%20Module%20Image/4%20canal%20relay_3DL.png?raw=true" style="width:150px;">
+      <img src="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#relay-circuit" style="width:150px;">
       <p> 4 Chanel Relay Module 5V <br> Rated coil Voltage:5V DC <br> Operating Frequency:50/60HZ <br> Nominal Current:10A AC, 10A at 28V DC </p>
     </td>
   </tr>
