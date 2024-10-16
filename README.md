@@ -16,6 +16,18 @@
 
 </table>
 
+<h3>Fan Controller</h3>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/Mini-DC-fan-controller-3L/CBU_L.png?raw=true" style="width:150px;">
+      <p> Mini Fan Circuit 3-Step Speed Controler <br> USB Type-C 5V or 3.7V lithium battery power supply <br> Indicator light display: red charging, blue fully charged, fan turned on blue </p>
+    </td>
+  </tr>
+
+</table>
+
 <h3>Fan Regulator</h3>
 
 <table>
