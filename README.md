@@ -40,7 +40,7 @@
 
 </table>
 
-<h3>Microwave-Oven Input Noise Filter</h3>
+<h3>Filter Circuit</h3>
 
 <table>
   <tr>
