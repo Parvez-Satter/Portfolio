@@ -28,18 +28,6 @@
 
 </table>
 
-<h3>Microwave-Oven Input Noise Filter</h3>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/Microven%20Noise%20FIlter/3D_TOP.png" style="width:150px;">
-      <p> Iline filter type MDFLT25A 250V 50/60Hz </p>
-    </td>
-  </tr>
-
-</table>
-
 <h3>Fan Regulator</h3>
 
 <table>
@@ -51,6 +39,20 @@
   </tr>
 
 </table>
+
+<h3>Microwave-Oven Input Noise Filter</h3>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/Microven%20Noise%20FIlter/3D_TOP.png" style="width:150px;">
+      <p>Microwave-Oven Input Noise Filter <br> Line filter type MDFLT25A 250V 50/60Hz </p>
+    </td>
+  </tr>
+
+</table>
+
+
 
 <h3>Relay Circuit</h3>
 
