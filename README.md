@@ -38,7 +38,7 @@
     </td>
     <td>
       <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/ACI.Fan%20Regulator/V0.0.1/3DT.png" style="width:150px;">
-      <p> Input Voltage: 220-250V AC <br> Frequency: 50/60Hz </p>
+      <p> Input Voltage: 220-250V AC <br> Frequency: 50/60Hz <br> With variable resistor </p>
     </td>
   </tr>
 
