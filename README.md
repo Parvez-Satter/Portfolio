@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/DC-to-DC-linear-converter-Vout-3.3v-5V-main_%20image/3DL.png?raw=true" alt="DC to DC linear converter" style="width:150px;">
+      <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/DC-to-DC-linear-converter-Vout-3.3v-5V-main/V0.2.1/3DL.png" alt="DC to DC linear converter" style="width:150px;">
       <p> DC to DC linear converter <br> Vin = 15V max <br> Vout= 3.3V & 5V, 1A</p>
     </td>
     <td>
