@@ -50,7 +50,7 @@
   <tr>
     <td>
       <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/12V2A_LEDM_SMPS/V0.0.1/12V2A_LEDM1%20_3DL.png" style="width:150px;">
-      <p>SMPS 12V/2A LED position middle <br> Vin(ac)=110~240V, Vout(DC)=12V2A</p>
+      <p>Vin(AC)=110~240V  <br> Vout(DC)=12V, 2A <br> LED position middle</p>
     </td>
   </tr>
 
