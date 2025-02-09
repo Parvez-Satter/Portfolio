@@ -44,6 +44,18 @@
 
 </table>
 
+<h3>SMPS</h3>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/12V2A_LEDM_SMPS/V0.0.1/12V2A_LEDM1%20_3DL.png" style="width:150px;">
+      <p>SMPS 12V/2A LED position middle <br> Vin(ac)=110~240V, Vout(DC)=12V2A</p>
+    </td>
+  </tr>
+
+</table>
+
 <h3>Filter Circuit</h3>
 
 <table>
