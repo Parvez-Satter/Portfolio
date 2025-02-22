@@ -24,6 +24,10 @@
       <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/Mini-DC-fan-controller-3L/CBU_L.png?raw=true" style="width:150px;">
       <p> Mini Fan Circuit 3-Step Speed Controler <br> Power supply: <br> USB Type-C 5V or 3.7V lithium battery <br> Indicator light display: red charging, <br> blue fully charged, fan turned on blue </p>
     </td>
+        <td>
+      <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/12-14_inch_Fan_BJT_V/V0.0.3/12inch_FAN_BJT_3DL.png" style="width:150px;">
+      <p> 12/14 inch Fan controller <br>BJT version </p>
+    </td>
   </tr>
 
 </table>
