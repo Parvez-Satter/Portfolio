@@ -26,7 +26,7 @@
     </td>
         <td>
       <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/12-14_inch_Fan_BJT_V/V0.0.3/12inch_FAN_BJT_3DL.png" style="width:150px;">
-      <p> 12/14 inch Fan controller <br>BJT version </p>
+      <p> 12/14 inch Fan controller <br>BJT version  <br>SMPS input:7.8V 2A  <br>Battery input:6V </p>
     </td>
   </tr>
 
