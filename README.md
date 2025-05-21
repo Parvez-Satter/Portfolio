@@ -60,6 +60,17 @@
 
 </table>
 
+<h3>Mobile Charger</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Parvez-Satter/project-outcome-images/blob/main/Low%20Q%20Mobile%20Charger/V0.0.1/LQMC_TOP_3DL.png" style="width:150px;">
+      <p>Vin(AC)=110~240V  <br> Vout(DC)=5V, 1A <br> Green and Red indicator LED</p>
+    </td>
+  </tr>
+
+</table>
+
 <h3>Filter Circuit</h3>
 
 <table>
